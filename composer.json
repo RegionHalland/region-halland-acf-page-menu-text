@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-page-menu-text",
+    "description": "Skapa en textruta med plats för menu text på en sida",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
