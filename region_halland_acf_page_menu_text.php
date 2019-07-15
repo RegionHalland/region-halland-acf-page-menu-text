@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland ACF Page Menu Text
 	Description: ACF-fält för menu text
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 
